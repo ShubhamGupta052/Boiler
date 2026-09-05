@@ -220,8 +220,8 @@ A typedef enum is used to define the boiler states, allowing the controller to m
                    │   Lockout   │
                    └─────────────┘
 
-## Project Structure
-
+```
+### Project Structure
 ```text
 LabVIEW/
 └── Boiler/
@@ -248,3 +248,4 @@ LabVIEW/
     │
     └── Reference_PDF.pdf
 
+```
