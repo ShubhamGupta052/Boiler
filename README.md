@@ -249,3 +249,6 @@ LabVIEW/
     └── Reference_PDF.pdf
 
 ```
+
+## How to run?
+In order to run this program on you system download the whole zip and after opening it click on the Boiler-M.vi to run the program. This program is compatible on LabVIEW version 2020 and above.
