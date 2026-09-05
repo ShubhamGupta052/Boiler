@@ -1,0 +1,41 @@
+Time stamp,Event,Event Data
+06-Sep-26 02:27:11,Boiler Initialized,0
+06-Sep-26 02:27:14,Boiler Ready,0
+06-Sep-26 02:27:17,Start Pre-Purge,0
+06-Sep-26 02:28:05,Boiler Initialized,0
+06-Sep-26 02:28:53,Boiler Initialized,0
+06-Sep-26 02:28:57,Boiler Ready,0
+06-Sep-26 02:28:59,Start Pre-Purge,0
+06-Sep-26 02:29:19,Boiler Initialized,0
+06-Sep-26 02:29:30,Boiler Ready,0
+06-Sep-26 02:29:31,Start Pre-Purge,0
+06-Sep-26 02:29:41,Pre-Purge Complete,0
+06-Sep-26 02:30:30,Boiler Initialized,0
+06-Sep-26 02:30:37,Boiler Ready,0
+06-Sep-26 02:30:37,Start Pre-Purge,0
+06-Sep-26 02:30:48,Pre-Purge Complete,0
+06-Sep-26 02:30:49,Pilot On,True
+06-Sep-26 02:30:51,Pilot Proved,37
+06-Sep-26 02:30:54,Forced Draft Fan On,True
+06-Sep-26 02:30:56,Boiler Running,17
+06-Sep-26 02:31:00,Shutdown Purge,0
+06-Sep-26 02:34:02,Boiler Initialized,0
+06-Sep-26 02:34:07,Boiler Ready,0
+06-Sep-26 02:34:10,Start Pre-Purge,0
+06-Sep-26 02:34:20,Pre-Purge Complete,0
+06-Sep-26 02:34:24,Pilot On,True
+06-Sep-26 02:34:33,Pilot Proved,32
+06-Sep-26 02:34:33,Forced Draft Fan On,True
+06-Sep-26 02:34:38,Boiler Running,12
+06-Sep-26 02:34:48,Shutdown Purge,0
+06-Sep-26 02:34:58,Shutdown Purge Complete ,0
+06-Sep-26 02:35:49,Boiler Initialized,0
+06-Sep-26 02:35:55,Boiler Ready,0
+06-Sep-26 02:35:58,Start Pre-Purge,0
+06-Sep-26 02:36:08,Pre-Purge Complete,0
+06-Sep-26 02:36:11,Pilot On,True
+06-Sep-26 02:36:16,Pilot Proved,31
+06-Sep-26 02:36:20,Forced Draft Fan On,True
+06-Sep-26 02:36:24,Boiler Running,18
+06-Sep-26 02:36:31,Shutdown Purge,0
+06-Sep-26 02:36:41,Shutdown Purge Complete ,0
